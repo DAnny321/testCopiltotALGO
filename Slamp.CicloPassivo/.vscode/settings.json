@@ -1,6 +1,0 @@
-{
-    "al.codeAnalyzers": [
-    
-    "${AppSourceCop}","${CodeCop}","${PerTenantExtensionCop}","${UICop}"],
-    "al.enableCodeAnalysis": false
-}
